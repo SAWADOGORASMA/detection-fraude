@@ -1,0 +1,17 @@
+# Données brutes et intermédiaires (trop volumineuses pour GitHub)
+data/raw/
+*.csv
+
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers générés localement
+*.png
+*.pdf
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
