@@ -13,7 +13,7 @@ Classification binaire sur données déséquilibrées à grande échelle, avec g
 
 Ce projet n'aboutit pas à un modèle performant, mais à un **diagnostic rigoureux** établi par onze vérifications indépendantes : le dataset Cifer Fraud Detection, tel qu'échantillonné et analysé, ne porte pas la logique causale de fraude nécessaire à une détection fiable au niveau transactionnel (AUC-PR final = 0,049, contre un seuil visé de 0,90 ; rappel = 7,3 %).
 
-Le détail complet de cette démarche — preuves, chiffres, interprétation — est documenté dans [`docs/rapport_technique1.docx`](docs/rapport_technique1.docx).
+Le détail complet de cette démarche — preuves, chiffres, interprétation — est documenté dans [`docs/rapport_technique.docx`](docs/rapport_technique.docx).
 
 ---
 
