@@ -1,6 +1,6 @@
 # Détection de Fraude dans les Transactions Financières
 
-Projet de fin de Certificat en Intelligence Artificielle — sujet conçu par **Khady KAMA** (Mai 2026).
+Projet de fin de Certificat en Intelligence Artificielle — sujet conçu par **Khady KAMA**.
 Classification binaire sur données déséquilibrées à grande échelle, avec gestion du déséquilibre de classes, interprétabilité SHAP et interface de démonstration Gradio.
 
 **Auteur : Rasmané**
@@ -13,7 +13,7 @@ Classification binaire sur données déséquilibrées à grande échelle, avec g
 
 Ce projet n'aboutit pas à un modèle performant, mais à un **diagnostic rigoureux** établi par onze vérifications indépendantes : le dataset Cifer Fraud Detection, tel qu'échantillonné et analysé, ne porte pas la logique causale de fraude nécessaire à une détection fiable au niveau transactionnel (AUC-PR final = 0,049, contre un seuil visé de 0,90 ; rappel = 7,3 %).
 
-Le détail complet de cette démarche — preuves, chiffres, interprétation — est documenté dans [`docs/note_methodologique_revisee.docx`](docs/note_methodologique_revisee.docx) et synthétisé dans [`docs/rapport_technique.docx`](docs/rapport_technique.docx).
+Le détail complet de cette démarche — preuves, chiffres, interprétation — est documenté dans [`docs/rapport_technique1.docx`](docs/rapport_technique1.docx).
 
 ---
 
@@ -115,4 +115,4 @@ Cifer Fraud Detection Dataset-AF est distribué sous licence Apache 2.0 par Cife
 
 ## Contact
 
-Rasmané — Certificat en Intelligence Artificielle
+Sawadogo Rasmané — srasmane249@gmail.com
